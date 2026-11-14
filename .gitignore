@@ -57,3 +57,5 @@ Desktop.ini
 venv/
 __pycache__/
 *.pyc
+.agent/dist/
+.agent/node_modules/
